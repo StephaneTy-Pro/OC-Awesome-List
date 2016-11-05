@@ -1,5 +1,8 @@
 # The awesome manifesto
 
+## Legal Mention
+This file is originally copied from the one [sindresorhus](https://github.com/sindresorhus/awesome/blob/master/awesome.md) created, it's the reason why some links still point on his site
+
 If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
 
 But **what is awesome?**
