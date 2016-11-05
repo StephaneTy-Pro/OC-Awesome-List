@@ -38,6 +38,9 @@ Interesting tools for open classroom members
 	- [PocketCPP] (https://github.com/dacap/pocketcpp) - an exe which is a 7zip autoextractible c++ environnement with no need for install. Tested for LuaJit compilation, work like a charm. 
 - Go
 	- [Awesome Go - Libhunt](https://go.libhunt.com/) - A list of great libraries for Go 
+- UML
+  - [StarUML2] (http://staruml.io/) Lic: Commercial Try: Yes without any limitation Os: mac/win/lin
+
 
 ## Miscellaneous.
 - [DeskPin] (http://efotinis.neocities.org/deskpins/index.html) - Deskpin allow you to pin a window so that it appears "Always on Top"
@@ -48,6 +51,9 @@ Interesting tools for open classroom members
 ## Text
 - Editor
 	- [MarkdownEditor] (http://georgeosddev.github.io/markdown-edit/) Online markdown editor which is fast, and have a dual panel with preview. Must have !
+- IDE
+  - [Cloud9] (https://c9.io/) Online IDE, Docker based tool. Lic: Open source Price:Free offer https://c9.io/pricing
+  
 - Text-expander
   - [PhraseExpress] (http://www.phraseexpress.com/) Autotext and Text Autocompletion in any application 
 - Text-transform.
