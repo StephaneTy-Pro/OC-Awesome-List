@@ -36,6 +36,8 @@ Interesting tools for open classroom members
 ## Dev
 - C++
 	- [PocketCPP] (https://github.com/dacap/pocketcpp) - an exe which is a 7zip autoextractible c++ environnement with no need for install. Tested for LuaJit compilation, work like a charm. 
+- Json
+  - [Json Generator] (http://www.json-generator.com/) Generate complex json data from a description (support function returned data)	
 - Go
 	- [Awesome Go - Libhunt](https://go.libhunt.com/) - A list of great libraries for Go 
 - UML
